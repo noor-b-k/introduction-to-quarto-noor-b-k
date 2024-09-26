@@ -1,12 +1,13 @@
 ---
 title: "Lab 1: Introduction to Quarto"
-author: "Your name goes here!"
+author: "Noor Karaki"
 date: "Insert the date here!"
 format: html
 editor: source
 embed-resources: true
 execute:
-  echo: false
+  echo: true
+  error: true
 ---
 
 # Part Two: Exploring Quarto Documents
